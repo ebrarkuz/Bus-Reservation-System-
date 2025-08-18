@@ -1,10 +1,10 @@
-COMMAND: INIT_VOYAGE	Standard	11	Ankara	›stanbul	11	350	10
-Voyage 11 was initialized as a standard (2+2) voyage from Ankara to ›stanbul with 350.00 TL priced 44 regular seats. Note that refunds will be 10% less than the paid amount.
+COMMAND: INIT_VOYAGE	Standard	11	Ankara	√ùstanbul	11	350	10
+Voyage 11 was initialized as a standard (2+2) voyage from Ankara to √ùstanbul with 350.00 TL priced 44 regular seats. Note that refunds will be 10% less than the paid amount.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -40,7 +40,7 @@ Sinop-Ankara
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -54,13 +54,13 @@ Ankara-›stanbul
 * * | * *
 Revenue: 0.00
 ----------------
-COMMAND: INIT_VOYAGE	Minibus	2	Ankara	Polatl˝	9	99.99
-Voyage 2 was initialized as a minibus (2) voyage from Ankara to Polatl˝ with 99.99 TL priced 18 regular seats. Note that minibus tickets are not refundable.
+COMMAND: INIT_VOYAGE	Minibus	2	Ankara	Polatl√Ω	9	99.99
+Voyage 2 was initialized as a minibus (2) voyage from Ankara to Polatl√Ω with 99.99 TL priced 18 regular seats. Note that minibus tickets are not refundable.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -89,7 +89,7 @@ Sinop-Ankara
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -109,7 +109,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -157,7 +157,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -171,13 +171,13 @@ Ankara-›stanbul
 * * | * *
 Revenue: 0.00
 ----------------
-COMMAND: INIT_VOYAGE	Minibus	3	Pendik	Halkal˝	15	150
-Voyage 3 was initialized as a minibus (2) voyage from Pendik to Halkal˝ with 150.00 TL priced 30 regular seats. Note that minibus tickets are not refundable.
+COMMAND: INIT_VOYAGE	Minibus	3	Pendik	Halkal√Ω	15	150
+Voyage 3 was initialized as a minibus (2) voyage from Pendik to Halkal√Ω with 150.00 TL priced 30 regular seats. Note that minibus tickets are not refundable.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -190,7 +190,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -244,7 +244,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -258,8 +258,8 @@ Ankara-›stanbul
 * * | * *
 Revenue: 0.00
 ----------------
-COMMAND: INIT_VOYAGE	Standard	5	›stanbul	›zmir	13	500	15
-Voyage 5 was initialized as a standard (2+2) voyage from ›stanbul to ›zmir with 500.00 TL priced 52 regular seats. Note that refunds will be 15% less than the paid amount.
+COMMAND: INIT_VOYAGE	Standard	5	√ùstanbul	√ùzmir	13	500	15
+Voyage 5 was initialized as a standard (2+2) voyage from √ùstanbul to √ùzmir with 500.00 TL priced 52 regular seats. Note that refunds will be 15% less than the paid amount.
 COMMAND: PRINT_VOYAGE	9
 Voyage 9
 Sinop-Rize
@@ -283,7 +283,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -296,7 +296,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -315,7 +315,7 @@ Pendik-Halkal˝
 Revenue: 0.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -367,7 +367,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 * * | * *
 * * | * *
 * * | * *
@@ -382,12 +382,12 @@ Ankara-›stanbul
 Revenue: 0.00
 ----------------
 COMMAND: SELL_TICKET	11	1_2_3_4
-Seat 1-2-3-4 of the Voyage 11 from Ankara to ›stanbul was successfully sold for 1400.00 TL.
+Seat 1-2-3-4 of the Voyage 11 from Ankara to √ùstanbul was successfully sold for 1400.00 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -400,7 +400,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -419,7 +419,7 @@ Pendik-Halkal˝
 Revenue: 0.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -471,7 +471,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -491,7 +491,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -504,7 +504,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -523,7 +523,7 @@ Pendik-Halkal˝
 Revenue: 0.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -575,7 +575,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -590,12 +590,12 @@ X X | X X
 Revenue: 1400.00
 ----------------
 COMMAND: SELL_TICKET	3	9_10_11
-Seat 9-10-11 of the Voyage 3 from Pendik to Halkal˝ was successfully sold for 450.00 TL.
+Seat 9-10-11 of the Voyage 3 from Pendik to Halkal√Ω was successfully sold for 450.00 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -608,7 +608,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -627,7 +627,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -679,7 +679,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -694,12 +694,12 @@ X X | X X
 Revenue: 1400.00
 ----------------
 COMMAND: SELL_TICKET	5	15
-Seat 15 of the Voyage 5 from ›stanbul to ›zmir was successfully sold for 500.00 TL.
+Seat 15 of the Voyage 5 from √ùstanbul to √ùzmir was successfully sold for 500.00 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -712,7 +712,7 @@ Ankara-Polatl˝
 Revenue: 0.00
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -731,7 +731,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -783,7 +783,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -798,12 +798,12 @@ X X | X X
 Revenue: 1400.00
 ----------------
 COMMAND: SELL_TICKET	2	12
-Seat 12 of the Voyage 2 from Ankara to Polatl˝ was successfully sold for 99.99 TL.
+Seat 12 of the Voyage 2 from Ankara to Polatl√Ω was successfully sold for 99.99 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -816,7 +816,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -835,7 +835,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -887,7 +887,7 @@ Sinop-Rize
 Revenue: 0.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -907,7 +907,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -920,7 +920,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -939,7 +939,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -991,7 +991,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -1011,7 +1011,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1024,7 +1024,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1043,7 +1043,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1095,7 +1095,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -1110,12 +1110,12 @@ X X | X X
 Revenue: 1400.00
 ----------------
 COMMAND: REFUND_TICKET	5	15
-Seat 15 of the Voyage 5 from ›stanbul to ›zmir was successfully refunded for 425.00 TL.
+Seat 15 of the Voyage 5 from √ùstanbul to √ùzmir was successfully refunded for 425.00 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1128,7 +1128,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1147,7 +1147,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1199,7 +1199,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -1219,7 +1219,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1232,7 +1232,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1251,7 +1251,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1303,7 +1303,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X X | X X
 * * | * *
 * * | * *
@@ -1318,12 +1318,12 @@ X X | X X
 Revenue: 1400.00
 ----------------
 COMMAND: REFUND_TICKET	11	2_3
-Seat 2-3 of the Voyage 11 from Ankara to ›stanbul was successfully refunded for 630.00 TL.
+Seat 2-3 of the Voyage 11 from Ankara to √ùstanbul was successfully refunded for 630.00 TL.
 COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1336,7 +1336,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1355,7 +1355,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1407,7 +1407,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X * | * X
 * * | * *
 * * | * *
@@ -1427,7 +1427,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1440,7 +1440,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1459,7 +1459,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1511,7 +1511,7 @@ X | * X
 Revenue: 2700.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X * | * X
 * * | * *
 * * | * *
@@ -1531,7 +1531,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1544,7 +1544,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1563,7 +1563,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1615,7 +1615,7 @@ Sinop-Rize
 Revenue: 900.00
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X * | * X
 * * | * *
 * * | * *
@@ -1654,7 +1654,7 @@ COMMAND: Z_REPORT
 Z Report:
 ----------------
 Voyage 2
-Ankara-Polatl˝
+Ankara-Polatl√Ω
 * *
 * *
 * *
@@ -1667,7 +1667,7 @@ Ankara-Polatl˝
 Revenue: 99.99
 ----------------
 Voyage 3
-Pendik-Halkal˝
+Pendik-Halkal√Ω
 * *
 * *
 * *
@@ -1686,7 +1686,7 @@ X *
 Revenue: 450.00
 ----------------
 Voyage 5
-›stanbul-›zmir
+√ùstanbul-√ùzmir
 * * | * *
 * * | * *
 * * | * *
@@ -1719,7 +1719,7 @@ Sinop-Ankara
 Revenue: 212.50
 ----------------
 Voyage 11
-Ankara-›stanbul
+Ankara-√ùstanbul
 X * | * X
 * * | * *
 * * | * *
